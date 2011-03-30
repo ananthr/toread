@@ -1,0 +1,44 @@
+[x] 2001: A Space Odyssey, Arthur Clarke
+[x] Do Androids Dream of Electric Sheep, Philip K Dick
+[x] Rendezvous with Rama, Arthur Clarke
+[x] Ender's Game, Orson Scott Card
+[x] Foundation Trilogy, Isaac Asimov
+[x] 1984, George Orwell
+[x] Dune, Frank Herbert
+[x] Hitchhiker's Guide to the Galaxy, Douglas Adams
+Culture Series, Ian Banks
+A fire Upon the Deep, Vernor Vinge
+The Stars My Destination, Alfred Bester
+Vorkosigan Saga, Lois McMaster Bujold
+The Diamond Age, Neal Stephenson
+The Moon is a Harsh Mistress, Robert Heinlein
+Cat's Cradle, Kurt Vonnegut
+Slaughterhouse Five, Kurt Vonnegut
+Cryptonomicon, Neal Stephenson
+Hyperion Cantos, Dan Simmons
+Old Man's War, John Scalzi
+Neuromancer, William Gibson
+Anathem, Neal Stephenson
+The Sirens of Titan, Kurt Vonnegut
+Commonwealth Saga, Peter F Hamilton
+Forever War, Joe Haldemann
+Brave New World, Aldous Huxley
+Revelation Space, Alastair Reynolds
+Snow Crash, Neal Stephenson
+Mars Trilogy, Kim Stanley Robinson
+Book of the New Sun, Gene Wolfe
+Altered Carbon, Richard Morgan
+The Road, Cormac McCarthy
+The Mote in God's Eye, Niven Pournelle
+The Dispossessed, Ursula LeGuin
+Ringworld, Larry Niven
+The Little Prince, Antoine de Saint-Exupery
+A Stranger in a Strange Land, Robert Heinlein
+Farenheit 451, Ray Bradbury
+Childhood's End, Arthur Clarke
+A Canticle for Leibowitz, Walter Miller Jr.
+The Stand, Stephen King
+The Gods Themselves, Isaac Asimov
+Flowers of Algernon, Daniel Keyes
+Starside Rising, David Brin
+The Lathe of Heaven, Ursula LeGuin

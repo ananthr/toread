@@ -1,0 +1,36 @@
+[x] Foundation Series, Isaac Asimov
+[x] Nineteen Eighty-Four, George Orwell
+[x] The Adventures of Huckleberry Finn, Samuel L Clemens
+[x] Nightfall, Isaac Asimov
+[x] Zen and the Art of Motorcycle Maintanence, Robert Pirsig
+[x] Dune, Frank Herbert
+[x] Do Androids Dream of Electric Sheep, Philip Dick
+[x] Ender's Game, Orson Scott Card
+Stranger in a Strange Land, Robert Heinlein
+The Gods Themselves, Isaac Asimov
+Brave New World, Aldous Huxley
+Crime and Punishment, Fyodor Dostoevsky
+Neuromancer, William Gibson
+War and Peace, Leo Tolstoy
+The Moon and the Six Pence, W S Maugham
+House of Leaves, Mark Danielewsk
+The Idiot, Fyodor Dostoevsky
+The Little Prince, Antoine de Saint-Exupéry
+Flowers of Algernon, Daniel Keyes
+Don Quíxote, Miguel de Cervantes
+Slaughterhouse-Five, Kurt Vonnegut
+Cat's Cradle, Kurt Vonnegut
+The Unbearable Lightness of Being, Milan Kundera
+The Count of Monte Cristo, Alexander Dumas
+The Brothers Karamazov, Fyodor Dostoevsky
+Snow Crash, Neal Stephenson
+Anna Karenina, Leo Tolstoy
+To Kill a Mockingbird, Harper Lee
+The Tao of Physics, Fritjof Capra
+A Clockwork Orange, Anthony Burgess
+For Whom the Bell Tolls, Ernest Hemingway
+The Social Contract, Jean-Jacques Rousseau
+The Art of War, Sun Tzu
+Catch-22, Joseph Heller
+Catcher in the Rye, J D Salinger
+Lord of the Flies, William Golding
